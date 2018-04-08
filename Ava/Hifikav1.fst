@@ -5,7 +5,7 @@ filename = Hifikav1/Hifikav1.fbx
 texdir = Hifikav1/textures
 joint = jointEyeLeft = LeftEye
 joint = jointHead = Head
-joint = jointRoot = Hips
+joint = jointRoot = Armature
 joint = jointEyeRight = RightEye
 joint = jointLean = Spine
 joint = jointRightHand = RightHand
