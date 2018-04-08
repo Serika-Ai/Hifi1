@@ -202,3 +202,4 @@ jointIndex = Skirt_1_1_L = 32
 
 bs = EyeBlink_L = Wink 2 = 1
 bs = EyeBlink_R = Wink 2 right = 1
+bs = Jaw_Open = vrc.blink_left = 1
