@@ -184,4 +184,3 @@ jointIndex = Shoulder章17_1_L = 127
 
 bs = EyeBlink_L = Wink 2 = 1
 bs = EyeBlink_R = Wink 2 right = 1
-bs = Jaw_Open = A.001 = 1
