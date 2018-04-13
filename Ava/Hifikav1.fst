@@ -25,7 +25,7 @@ jointIndex = RightHandIndex3 = 86
 jointIndex = LeftHandPinky2 = 164
 jointIndex = Skirt_1_3_L = 34
 jointIndex = Skirt_2_2_L = 30
-jointIndex = HairRoot = 103
+jointIndex = hair = 103
 jointIndex = FrontHair1_1_L = 110
 jointIndex = Shoulder章9_1_R = 68
 jointIndex = HandFrill捻Return_R = 83
@@ -90,6 +90,7 @@ jointIndex = RightHandPinky1 = 93
 jointIndex = RightUpLeg = 41
 jointIndex = FrontSkirt_1_3 = 40
 jointIndex = Breast1_R = 55
+jointIndex = breasts = 53
 jointIndex = LeftHandMiddle2 = 158
 jointIndex = LeftHandRing1 = 160
 jointIndex = Shoulder章2_1_R = 75
@@ -97,6 +98,7 @@ jointIndex = Eye_L = 127
 jointIndex = Shoulder章1_1_R = 76
 jointIndex = LeftToe_End = 50
 jointIndex = LeftShoulder = 128
+jointIndex = skirt = 3
 jointIndex = Shoulder章7_1_L = 140
 jointIndex = Shoulder章2_1_L = 145
 jointIndex = RightEye = 117
@@ -118,7 +120,6 @@ jointIndex = RightHand = 82
 jointIndex = RightHandIndex2 = 85
 jointIndex = RightArm = 78
 jointIndex = Skirt_4_2_R = 21
-jointIndex = Root_Breast1_R = 53
 jointIndex = BackSkirt_1_1 = 5
 jointIndex = HandTwistRotation1_L = 151
 jointIndex = RightHandMiddle2 = 88
@@ -173,7 +174,6 @@ jointIndex = Shoulder章13_1_R = 64
 jointIndex = LeftHandMiddle3 = 159
 jointIndex = Spine 2 = 52
 jointIndex = Shoulder章10_1_L = 137
-jointIndex = Root_Skirt = 3
 jointIndex = Shoulder章14_1_R = 63
 jointIndex = BackHair_3_R = 108
 jointIndex = HandTwistRotation2_R = 80
