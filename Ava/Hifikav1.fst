@@ -11,6 +11,9 @@ joint = jointEyeRight = RightEye
 joint = jointRightHand = RightHand
 joint = jointLean = Spine
 joint = jointNeck = Neck
+freeJoint = hair
+freeJoint = breasts
+freeJoint = skirt
 freeJoint = LeftArm
 freeJoint = LeftForeArm
 freeJoint = RightArm
