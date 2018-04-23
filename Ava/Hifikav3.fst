@@ -11,6 +11,8 @@ joint = jointEyeLeft = LeftEye
 joint = jointRoot = Hips
 joint = jointRightHand = RightHand
 joint = jointHead = Head
+freeJoint = LeftArm
+freeJoint = LeftForeArm
 jointIndex = flow_Skirt_0_2.L = 46
 jointIndex = flow_BackHair_3.L = 161
 jointIndex = Shoulder章17_1.L_end = 176
@@ -93,7 +95,6 @@ jointIndex = RingFinger2.L = 223
 jointIndex = Thumb1.L = 231
 jointIndex = flow_Skirt_4_3.L_end = 32
 jointIndex = flow_Skirt_1_1.L = 41
-jointIndex = Thumb0.L = 230
 jointIndex = Shoulder章6_1.R = 98
 jointIndex = RightEye_end = 170
 jointIndex = flow_Skirt_1_2.L = 42
@@ -130,7 +131,9 @@ jointIndex = Shoulder章13_1.L = 183
 jointIndex = flow_Skirt_4_2.L = 30
 jointIndex = Foot.L = 60
 jointIndex = Scarf1_1.L = 68
+jointIndex = LeftArm = 211
 jointIndex = Shoulder章16_1.R_end = 79
+jointIndex = LeftHandThumb0 = 230
 jointIndex = flow_Skirt_1_2.R = 14
 jointIndex = Shoulder章5_1.R = 100
 jointIndex = flow_Skirt_4_3.R_end = 28
@@ -138,8 +141,8 @@ jointIndex = Shoulder章15_1.R_end = 81
 jointIndex = flow_BackHair_1.L = 159
 jointIndex = Shoulder章2_1.R_end = 107
 jointIndex = LittleFinger3.L_end = 229
+jointIndex = LeftShoulder = 173
 jointIndex = Shoulder章1_1.L = 207
-jointIndex = Arm.L = 211
 jointIndex = IndexFinger1.R = 115
 jointIndex = ArmRotation.R_end = 111
 jointIndex = LittleFinger2.R = 128
@@ -147,7 +150,6 @@ jointIndex = Spine2 = 65
 jointIndex = Shoulder章7_1.R = 96
 jointIndex = Scarf1_1.R = 66
 jointIndex = flow_Bangs2_1.R = 152
-jointIndex = ForeArm.L = 212
 jointIndex = flow_Bangs2_2.L = 150
 jointIndex = flow_Skirt_2_2.R = 18
 jointIndex = flow_Bangs1_1.L = 145
@@ -204,6 +206,7 @@ jointIndex = MiddleFinger3.L = 220
 jointIndex = Shoulder章2_1.L = 205
 jointIndex = Shoulder章3_1.R_end = 105
 jointIndex = flow_BackHair_2.L = 160
+jointIndex = LeftForeArm = 212
 jointIndex = ForeArm.R = 113
 jointIndex = flow_Skirt_0_2.R = 10
 jointIndex = Scarf1_1.L_end = 69
@@ -214,7 +217,6 @@ jointIndex = flow_Skirt_1_3.L_end = 44
 jointIndex = Shoulder章9_1.R = 92
 jointIndex = flow_Skirt_4_3.R = 27
 jointIndex = Shoulder章9_1.L = 191
-jointIndex = Shoulder.L = 173
 jointIndex = flow_BackSkirt_1_3 = 7
 jointIndex = LittleFinger3.R_end = 130
 jointIndex = IndexFinger3.L = 216
