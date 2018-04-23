@@ -11,6 +11,10 @@ joint = jointLean = Spine
 joint = jointHead = Head
 joint = jointEyeRight = RightEye
 joint = jointRightHand = RightHand
+freeJoint = LeftArm
+freeJoint = LeftForeArm
+freeJoint = RightArm
+freeJoint = RightForeArm
 jointIndex = LeftArm = 137
 jointIndex = RightHandThumb2 = 91
 jointIndex = Shoulder章13_1.L = 123
@@ -45,6 +49,7 @@ jointIndex = Shoulder章9_1.L = 127
 jointIndex = flow_Skirt_3_1.L = 25
 jointIndex = Shoulder章10_1.R = 64
 jointIndex = flow_Bangs_1 = 111
+jointIndex = RightToe = 43
 jointIndex = Shoulder章3_1.R = 71
 jointIndex = ぽんぷ長式鹿島_arm = 1
 jointIndex = Shoulder章17_1.R = 57
@@ -80,7 +85,6 @@ jointIndex = flow_BackHair_2.L = 109
 jointIndex = Shoulder章8_1.R = 66
 jointIndex = Shoulder章17_1.L = 119
 jointIndex = LeftHandMiddle3 = 145
-jointIndex = RightToeBase = 43
 jointIndex = RightHandThumb1 = 90
 jointIndex = LeftFoot = 46
 jointIndex = LeftHandMiddle2 = 144
@@ -119,6 +123,7 @@ jointIndex = flow_Skirt_2_2.R = 14
 jointIndex = RightFoot = 42
 jointIndex = RightEye = 115
 jointIndex = LeftHandIndex2 = 141
+jointIndex = LeftToe = 47
 jointIndex = Shoulder章13_1.R = 61
 jointIndex = LeftHandThumb1 = 152
 jointIndex = Spine = 48
@@ -152,7 +157,6 @@ jointIndex = flow_Skirt_1_3.R = 12
 jointIndex = flow_Skirt_2_3.L = 30
 jointIndex = RightHandRing3 = 86
 jointIndex = LeftHandThumb3 = 154
-jointIndex = LeftToeBase = 47
 jointIndex = Shoulder章4_1.R = 70
 jointIndex = flow_Bangs1_1.R = 98
 jointIndex = flow_Skirt_4_3.L = 24
