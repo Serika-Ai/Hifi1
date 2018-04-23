@@ -11,10 +11,6 @@ joint = jointRoot = Hips
 joint = jointHead = Head
 joint = jointEyeRight = RightEye
 joint = jointNeck = Neck
-freeJoint = LeftArm
-freeJoint = LeftForeArm
-freeJoint = RightArm
-freeJoint = RightForeArm
 jointIndex = RightUpLeg = 40
 jointIndex = RightHandPinky2 = 89
 jointIndex = flow_Skirt_0_1.L = 34
