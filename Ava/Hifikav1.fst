@@ -253,3 +253,7 @@ jointIndex = flow_Skirt_2_3.R = 19
 jointIndex = RightToe_End_end = 58
 jointIndex = RightHandMiddle2 = 121
 jointIndex = Shoulder章1_1.R_end = 110
+
+bs = EyeBlink_L = Wink = 1
+bs = EyeBlink_R = WinkRight = 1
+bs = Sneer = Ehhh = 1
