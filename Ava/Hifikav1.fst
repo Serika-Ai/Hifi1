@@ -257,3 +257,8 @@ jointIndex = Shoulder章1_1.R_end = 110
 bs = EyeBlink_L = Wink = 1
 bs = EyeBlink_R = WinkRight = 1
 bs = Sneer = Ehhh = 1
+
+bs = ah = ah = 1
+bs = e = e = 1
+bs = o = o = 1
+bs = m = m = 1
