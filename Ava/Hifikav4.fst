@@ -149,5 +149,5 @@ jointIndex = flow_Skirt_4_3.R = 21
 bs = EyeBlink_L = Wink = 1
 bs = EyeBlink_R = WinkRight = 1
 bs = Sneer = Ehhh = 1
-bs = JawOpen = ah = 1
+bs = JawOpen = MouthOpen = 1
 
